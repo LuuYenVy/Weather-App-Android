@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="attribute_array">
+        <item>SO2</item>
+        <item>CO2</item>
+    </string-array>
+
+    <string-array name="time_frame_array">
+        <item>Ngày</item>
+        <item>Giờ</item>
+    </string-array>
+</resources>
